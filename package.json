@@ -1,0 +1,20 @@
+{
+  "name": "@cyntler/eslint-config",
+  "version": "1.0.0",
+  "description": "My personal configuration for ESLint.",
+  "keywords": [
+    "config",
+    "eslint"
+  ],
+  "main": "./index.js",
+  "author": "Damian Cyntler",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyntler/eslint-config.git"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
