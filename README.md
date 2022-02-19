@@ -1,2 +1,3 @@
 # eslint-config
-My ESLint config.
+
+My personal configuration for ESLint.
