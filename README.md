@@ -7,7 +7,7 @@ My personal configuration for ESLint.
 
 ## Installing
 
-To use this configuration, run the command below.
+To install this configuration, run the command below.
 
 ```bash
 npm i -D eslint @rushstack/eslint-patch @cyntler/eslint-config # npm
